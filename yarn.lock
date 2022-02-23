@@ -5247,10 +5247,10 @@ react-native-codegen@^0.0.8:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
-react-native-simple-dropdown-picker@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-simple-dropdown-picker/-/react-native-simple-dropdown-picker-1.1.0.tgz#5f37d7d437cce0ee941fd46cd399d6584eaed462"
-  integrity sha512-gaBDkEjyJmkYidfIC+P0fRnRUZ1UpjcOR3EvLWpFtu39rScCHo8rsumbK9CfNVp67/xGj4H/4OzqZxongthTWQ==
+react-native-simple-dropdown-picker@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-simple-dropdown-picker/-/react-native-simple-dropdown-picker-1.2.0.tgz#0c5ff4503b67c8ce36e76f1d50f0695d0c53e8e8"
+  integrity sha512-cKxAajPIfqmt1cNN1AiHUYwm97h9GuT2H0xMvXYOJq5+2kTkTBVbx7pJNVC7/X6OFd7q+pwBvsdtDeEeuxHvBg==
 
 react-native@0.67.3:
   version "0.67.3"

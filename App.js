@@ -5,7 +5,7 @@ import {
   StyleSheet,
   Text,
 } from 'react-native';
-import DropDownPicker from './src/DropDownPicker';
+import DropDownPicker from 'react-native-simple-dropdown-picker';
 
 const SIMPLE_DATA = [
   'I think it might !',
@@ -51,7 +51,7 @@ const App = () => {
         result={value}
         setResult={setValue}
         data={data}
-        placeholder={'Choose an option'}
+        placeholder={'Please answer :('}
       />
       <Button onPress={reset} title="Reset" />
       <Button onPress={changeDataType} title="Change type of data" />
